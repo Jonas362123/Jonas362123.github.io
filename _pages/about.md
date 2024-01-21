@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Wir klauen deine Spezi"
-excerpt: "About me"
+excerpt: "Spezi"
 author_profile: false
 redirect_from: 
   - /about/
