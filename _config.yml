@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Spezienjoyer / Wir klauen deine Spezi"
+title                    : "Wir klauen deine Spezi"
 title_separator          : "-"
 name                     : &name "Spezienjoyer"
 description              : &description "mucho Spezi"
